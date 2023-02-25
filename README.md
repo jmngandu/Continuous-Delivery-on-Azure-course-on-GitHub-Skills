@@ -39,7 +39,7 @@ Create two deployment workflows using GitHub Actions and Microsoft Azure.
 
 </details>
 
-<details id=1 open>
+<details id=1>
 <summary><h2>Step 1: Trigger a job based on labels</h2></summary>
 
 _Welcome to the course :tada:_
@@ -92,7 +92,7 @@ For now, we'll focus on staging. We'll spin up and destroy our environment in a 
 </details>
 
 
-<details id=2>
+<details id=2 open>
 <summary><h2>Step 2: Set up an Azure environment</h2></summary>
 
 _Good job getting started :gear:_
